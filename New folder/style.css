@@ -1,0 +1,52 @@
+/* -----------  Bulb Section  ------------- */
+
+/* body,
+html {
+    height: 100%;
+    margin: 0;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+/* .main {
+    background-image: url("assets/njPhhkca.gif");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.character {
+    width: 160px;
+    height: 250px;
+    object-fit: cover;
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    rotate: 270deg;
+} */
+
+.main {
+    background-image: url("assets/njPhhkca.gif");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+}
+
+.character {
+    width: 160px;
+    height: 250px;
+    object-fit: cover;
+    position: absolute;
+    bottom: 10px;
+}
